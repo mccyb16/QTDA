@@ -1,0 +1,16 @@
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\bin\Debug\SamLop.Data.dll
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\bin\Debug\SamLop.Data.pdb
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\obj\Debug\SamLop.Data.csprojAssemblyReference.cache
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\obj\Debug\SamLop.Data.csproj.CoreCompileInputs.cache
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\obj\Debug\SamLop.Data.dll
+E:\công nghệ phần mềm\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\Gara.Data\obj\Debug\SamLop.Data.pdb

@@ -1,0 +1,1 @@
+Data Source=ADMIN\SQLEXPRESS;Initial Catalog=cuahang;User ID=sa;Password=123;Integrated Security=True
